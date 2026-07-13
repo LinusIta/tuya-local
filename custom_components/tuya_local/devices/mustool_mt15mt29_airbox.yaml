@@ -3,6 +3,9 @@ products:
   - id: owmkja70doamcxkh
     manufacturer: Mustool
     model: MT15/MT29
+  - id: tf5vafuyq3hiibs4
+    manufacturer: Generic
+    model: MT13W
 entities:
   - entity: sensor
     translation_key: air_quality
